@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm Currently working with React, Next.js, and Tailwind CSS.<br>💬 Ask me about HTML, CSS, Tailwind, JavaScript, React, Next.js, and other Frontend technologies<br>📚 Currently learning Artificial Intelligence, DevOps & AWS.<br>
+💻 I'm Currently working with React, Next.js, and Tailwind CSS.<br>💬 Ask me about HTML, CSS, Tailwind, JavaScript, React, Next.js, and other Frontend technologies<br>📚 Currently learning Artificial Intelligence, DevOps & Deep Technologies in Frontend.<br>
 
 
 ## 🌐 Socials:
