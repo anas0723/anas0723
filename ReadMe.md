@@ -46,6 +46,7 @@
 ---
 
 ## 📊 GitHub Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anas0723&theme=dark&hide_border=false&border_radius=5&locale=en&date_format=M%20j%5B%2C%20Y%5D)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anas0723&theme=dark&border_radius=5&hide_total_contributions=true)](https://git.io/streak-stats)
 
